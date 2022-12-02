@@ -8,10 +8,6 @@
 			"Name": "VoxelFree",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c61d1941c8664436be42d649404a10e0"
-		},
-		{
-			"Name": "VRM4U",
-			"Enabled": true
 		}
 	]
 }
