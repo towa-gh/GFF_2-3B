@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRM4U-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.cpp.obj"
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.gen.1_of_2.cpp.obj"
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.gen.2_of_2.cpp.obj"
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Default.rc2.res"
+/OUT:"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\UE4Editor-VRM4U-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRM4U

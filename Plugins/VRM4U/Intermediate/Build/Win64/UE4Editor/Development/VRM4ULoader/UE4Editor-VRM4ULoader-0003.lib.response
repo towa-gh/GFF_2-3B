@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRM4ULoader-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Module.VRM4ULoader.cpp.obj"
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Module.VRM4ULoader.gen.cpp.obj"
+"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Default.rc2.res"
+/OUT:"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\UE4Editor-VRM4ULoader-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRM4ULoader
