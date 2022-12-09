@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4UMisc\Private
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4UMisc\Private"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -232,9 +232,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Editor\MainFrame\Public
-/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U
-/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Source
-/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Public
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U"
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Source"
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Public"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface
@@ -275,18 +275,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"C:\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMisc.cpp"
-/FI"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\Definitions.VRM4UMisc.h"
-/Fo"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\VRM4UMisc.cpp.obj"
+/FI"C:\R4 2-3\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"C:\R4 2-3\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\R4 2-3\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4UMisc\Private\VRM4UMisc.cpp"
+/FI"C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\Definitions.VRM4UMisc.h"
+/Fo"C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UMisc\VRM4UMisc.cpp.obj"
 /TP
 /GR-
 /W4

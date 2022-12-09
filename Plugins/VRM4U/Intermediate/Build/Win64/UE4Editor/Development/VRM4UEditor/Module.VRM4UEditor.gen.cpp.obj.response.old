@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Source\VRM4UEditor\Private
+/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4UEditor\Private
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -235,9 +235,9 @@
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LevelSequence
 /I Runtime\LevelSequence\Public
-/I C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U
-/I C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Source
-/I C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Public
+/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U
+/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Source
+/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface
@@ -251,8 +251,8 @@
 /I Editor\SceneOutliner\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CurveEditor
 /I Editor\CurveEditor\Public
-/I C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4UEditor
-/I C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Source\VRM4UEditor\Public
+/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4UEditor
+/I C:\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4UEditor\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -282,12 +282,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\授業で使う(使った)ファイル\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"C:\授業で使う(使った)ファイル\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\授業で使う(使った)ファイル\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\Module.VRM4UEditor.gen.cpp"
-/FI"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\Definitions.VRM4UEditor.h"
-/Fo"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\Module.VRM4UEditor.gen.cpp.obj"
+/FI"C:\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"C:\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\Module.VRM4UEditor.gen.cpp"
+/FI"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\Definitions.VRM4UEditor.h"
+/Fo"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4UEditor\Module.VRM4UEditor.gen.cpp.obj"
 /TP
 /GR-
 /W4
