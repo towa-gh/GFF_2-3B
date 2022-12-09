@@ -33,11 +33,11 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\授業で使う(使った)ファイル\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.cpp.obj"
-"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.gen.1_of_2.cpp.obj"
-"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.gen.2_of_2.cpp.obj"
-"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Default.rc2.res"
+"C:\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.cpp.obj"
+"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.gen.1_of_2.cpp.obj"
+"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.gen.2_of_2.cpp.obj"
+"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Default.rc2.res"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -78,8 +78,8 @@
 "C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelSequence\UE4Editor-LevelSequence.lib"
 "C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\MovieScene\LevelSequenceEditor\Intermediate\Build\Win64\UE4Editor\Development\LevelSequenceEditor\UE4Editor-LevelSequenceEditor.lib"
 "C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sequencer\UE4Editor-Sequencer.lib"
-/OUT:"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Binaries\Win64\UE4Editor-VRM4U.dll"
-/IMPLIB:"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\UE4Editor-VRM4U.suppressed.lib"
-/PDB:"C:\授業で使う(使った)ファイル\GFF_2-3B\Plugins\VRM4U\Binaries\Win64\UE4Editor-VRM4U.pdb"
+/OUT:"C:\GFF\GFF_2-3B\Plugins\VRM4U\Binaries\Win64\UE4Editor-VRM4U.dll"
+/IMPLIB:"C:\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\UE4Editor-VRM4U.suppressed.lib"
+/PDB:"C:\GFF\GFF_2-3B\Plugins\VRM4U\Binaries\Win64\UE4Editor-VRM4U.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_VRM4U
