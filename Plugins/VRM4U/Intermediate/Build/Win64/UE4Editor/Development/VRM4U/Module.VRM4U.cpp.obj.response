@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Private
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Slate
 /I Runtime
 /I Runtime\Slate\Public
@@ -233,9 +233,9 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera
 /I Runtime\CinematicCamera\Public
-/I C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U
-/I C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Plugins\VRM4U\Source
-/I C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Public
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Inc\VRM4U"
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Source"
+/I "C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Source\VRM4U\Public"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface
@@ -280,12 +280,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.cpp"
-/FI"C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Definitions.VRM4U.h"
-/Fo"C:\Users\12105176\Desktop\Kubagawa_ShootingGame\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.cpp.obj"
+/FI"C:\R4 2-3\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"C:\R4 2-3\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\R4 2-3\GFF\GFF_2-3B\Intermediate\Build\Win64\action_prt_3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.cpp"
+/FI"C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Definitions.VRM4U.h"
+/Fo"C:\R4 2-3\GFF\GFF_2-3B\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4U\Module.VRM4U.cpp.obj"
 /TP
 /GR-
 /W4
